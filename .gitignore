@@ -1,0 +1,6 @@
+tavily-api-keys.json
+**/*keys*.json
+.env
+.env.*
+node_modules/
+*.log
